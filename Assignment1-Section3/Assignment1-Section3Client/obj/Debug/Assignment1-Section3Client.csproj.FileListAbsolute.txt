@@ -1,0 +1,6 @@
+C:\Assignments\WCF\Assignment1-Section3\Assignment1-Section3Client\bin\Debug\Assignment1-Section3Client.exe.config
+C:\Assignments\WCF\Assignment1-Section3\Assignment1-Section3Client\bin\Debug\Assignment1-Section3Client.exe
+C:\Assignments\WCF\Assignment1-Section3\Assignment1-Section3Client\bin\Debug\Assignment1-Section3Client.pdb
+C:\Assignments\WCF\Assignment1-Section3\Assignment1-Section3Client\obj\Debug\Assignment1-Section3Client.csprojResolveAssemblyReference.cache
+C:\Assignments\WCF\Assignment1-Section3\Assignment1-Section3Client\obj\Debug\Assignment1-Section3Client.exe
+C:\Assignments\WCF\Assignment1-Section3\Assignment1-Section3Client\obj\Debug\Assignment1-Section3Client.pdb

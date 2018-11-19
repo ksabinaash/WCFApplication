@@ -1,0 +1,8 @@
+C:\Assignments\WCF\Assignment1-Section2\ConsoleHost\bin\Debug\ConsoleHost.exe.config
+C:\Assignments\WCF\Assignment1-Section2\ConsoleHost\bin\Debug\ConsoleHost.exe
+C:\Assignments\WCF\Assignment1-Section2\ConsoleHost\bin\Debug\ConsoleHost.pdb
+C:\Assignments\WCF\Assignment1-Section2\ConsoleHost\bin\Debug\Assignment1-Section2.dll
+C:\Assignments\WCF\Assignment1-Section2\ConsoleHost\bin\Debug\Assignment1-Section2.pdb
+C:\Assignments\WCF\Assignment1-Section2\ConsoleHost\obj\Debug\ConsoleHost.csprojResolveAssemblyReference.cache
+C:\Assignments\WCF\Assignment1-Section2\ConsoleHost\obj\Debug\ConsoleHost.exe
+C:\Assignments\WCF\Assignment1-Section2\ConsoleHost\obj\Debug\ConsoleHost.pdb

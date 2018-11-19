@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment2-Section2", "Assignment2-Section2.csproj", "{D2B8A797-1831-41AE-A4FA-9B82AD7B87BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherServiceHost", "WeatherServiceHost\WeatherServiceHost.csproj", "{BA756787-CCE8-4723-8167-851A6E5429EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2B8A797-1831-41AE-A4FA-9B82AD7B87BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B8A797-1831-41AE-A4FA-9B82AD7B87BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B8A797-1831-41AE-A4FA-9B82AD7B87BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B8A797-1831-41AE-A4FA-9B82AD7B87BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA756787-CCE8-4723-8167-851A6E5429EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA756787-CCE8-4723-8167-851A6E5429EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA756787-CCE8-4723-8167-851A6E5429EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA756787-CCE8-4723-8167-851A6E5429EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Assignments\WCF\Assignment2-Section2\WeatherServiceHost\bin\Debug\WeatherServiceHost.exe.config
+C:\Assignments\WCF\Assignment2-Section2\WeatherServiceHost\bin\Debug\WeatherServiceHost.exe
+C:\Assignments\WCF\Assignment2-Section2\WeatherServiceHost\bin\Debug\WeatherServiceHost.pdb
+C:\Assignments\WCF\Assignment2-Section2\WeatherServiceHost\bin\Debug\Assignment2-Section2.dll
+C:\Assignments\WCF\Assignment2-Section2\WeatherServiceHost\bin\Debug\Assignment2-Section2.pdb
+C:\Assignments\WCF\Assignment2-Section2\WeatherServiceHost\bin\Debug\Assignment2-Section2.dll.config
+C:\Assignments\WCF\Assignment2-Section2\WeatherServiceHost\obj\Debug\WeatherServiceHost.csprojResolveAssemblyReference.cache
+C:\Assignments\WCF\Assignment2-Section2\WeatherServiceHost\obj\Debug\WeatherServiceHost.ProjectInstaller.resources
+C:\Assignments\WCF\Assignment2-Section2\WeatherServiceHost\obj\Debug\WeatherServiceHost.csproj.GenerateResource.Cache
+C:\Assignments\WCF\Assignment2-Section2\WeatherServiceHost\obj\Debug\WeatherServiceHost.exe
+C:\Assignments\WCF\Assignment2-Section2\WeatherServiceHost\obj\Debug\WeatherServiceHost.pdb

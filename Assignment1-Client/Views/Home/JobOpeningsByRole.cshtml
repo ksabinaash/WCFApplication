@@ -1,0 +1,33 @@
+﻿@model Assignment1_Client.Models.JobOpenings
+
+@{
+    ViewBag.Title = "JobOpeningsByRole";
+}
+
+<h2>JobOpeningsByRole</h2>
+
+<div>
+    <h4>JobOpenings</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.role)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.role)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.opening)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.opening)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Back to List", "JobOpenings")
+</p>

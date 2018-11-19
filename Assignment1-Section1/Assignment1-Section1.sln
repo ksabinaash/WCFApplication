@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment1-Section1", "Assignment1-Section1.csproj", "{EB642ABE-4FEE-4149-B5A1-85C0B3058C7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceHost", "..\WCFServiceHost\WCFServiceHost.csproj", "{48F559F9-0B5D-4F95-B400-BDA02BAE8328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment1-Client", "..\Assignment1-Client\Assignment1-Client.csproj", "{CE8BC4B3-1418-4FA6-B17D-7016D408CCCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB642ABE-4FEE-4149-B5A1-85C0B3058C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB642ABE-4FEE-4149-B5A1-85C0B3058C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB642ABE-4FEE-4149-B5A1-85C0B3058C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB642ABE-4FEE-4149-B5A1-85C0B3058C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48F559F9-0B5D-4F95-B400-BDA02BAE8328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F559F9-0B5D-4F95-B400-BDA02BAE8328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F559F9-0B5D-4F95-B400-BDA02BAE8328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F559F9-0B5D-4F95-B400-BDA02BAE8328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE8BC4B3-1418-4FA6-B17D-7016D408CCCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE8BC4B3-1418-4FA6-B17D-7016D408CCCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE8BC4B3-1418-4FA6-B17D-7016D408CCCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE8BC4B3-1418-4FA6-B17D-7016D408CCCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

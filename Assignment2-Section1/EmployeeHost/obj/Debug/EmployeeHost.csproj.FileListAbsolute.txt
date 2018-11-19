@@ -1,0 +1,8 @@
+C:\Assignments\WCF\Assignment2-Section1\EmployeeHost\bin\Debug\EmployeeHost.exe.config
+C:\Assignments\WCF\Assignment2-Section1\EmployeeHost\bin\Debug\EmployeeHost.exe
+C:\Assignments\WCF\Assignment2-Section1\EmployeeHost\bin\Debug\EmployeeHost.pdb
+C:\Assignments\WCF\Assignment2-Section1\EmployeeHost\bin\Debug\Assignment2-Section1.dll
+C:\Assignments\WCF\Assignment2-Section1\EmployeeHost\bin\Debug\Assignment2-Section1.pdb
+C:\Assignments\WCF\Assignment2-Section1\EmployeeHost\obj\Debug\EmployeeHost.csprojResolveAssemblyReference.cache
+C:\Assignments\WCF\Assignment2-Section1\EmployeeHost\obj\Debug\EmployeeHost.exe
+C:\Assignments\WCF\Assignment2-Section1\EmployeeHost\obj\Debug\EmployeeHost.pdb

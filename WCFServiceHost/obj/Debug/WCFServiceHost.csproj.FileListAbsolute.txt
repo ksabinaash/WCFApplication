@@ -1,0 +1,9 @@
+C:\Assignments\WCF\WCFServiceHost\bin\Debug\WCFServiceHost.exe.config
+C:\Assignments\WCF\WCFServiceHost\bin\Debug\WCFServiceHost.exe
+C:\Assignments\WCF\WCFServiceHost\bin\Debug\WCFServiceHost.pdb
+C:\Assignments\WCF\WCFServiceHost\bin\Debug\Assignment1-Section1.dll
+C:\Assignments\WCF\WCFServiceHost\bin\Debug\Assignment1-Section1.pdb
+C:\Assignments\WCF\WCFServiceHost\bin\Debug\Assignment1-Section1.dll.config
+C:\Assignments\WCF\WCFServiceHost\obj\Debug\WCFServiceHost.csprojResolveAssemblyReference.cache
+C:\Assignments\WCF\WCFServiceHost\obj\Debug\WCFServiceHost.exe
+C:\Assignments\WCF\WCFServiceHost\obj\Debug\WCFServiceHost.pdb

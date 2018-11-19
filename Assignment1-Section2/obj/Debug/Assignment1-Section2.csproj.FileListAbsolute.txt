@@ -1,0 +1,4 @@
+C:\Assignments\WCF\Assignment1-Section2\bin\Debug\Assignment1-Section2.dll
+C:\Assignments\WCF\Assignment1-Section2\bin\Debug\Assignment1-Section2.pdb
+C:\Assignments\WCF\Assignment1-Section2\obj\Debug\Assignment1-Section2.dll
+C:\Assignments\WCF\Assignment1-Section2\obj\Debug\Assignment1-Section2.pdb

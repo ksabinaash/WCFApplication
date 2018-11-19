@@ -1,0 +1,5 @@
+C:\Assignments\WCF\Assignment2-Section1\bin\Debug\Assignment2-Section1.dll
+C:\Assignments\WCF\Assignment2-Section1\bin\Debug\Assignment2-Section1.pdb
+C:\Assignments\WCF\Assignment2-Section1\obj\Debug\Assignment2-Section1.csprojResolveAssemblyReference.cache
+C:\Assignments\WCF\Assignment2-Section1\obj\Debug\Assignment2-Section1.dll
+C:\Assignments\WCF\Assignment2-Section1\obj\Debug\Assignment2-Section1.pdb

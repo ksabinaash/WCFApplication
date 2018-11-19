@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Home</title>
+</head>
+<body>
+    <h1>WCF Client</h1>
+    <div>
+        <input type="button" value="Invoke Http Request" onclick="location.href='@Url.Action("InvokeHTTP", "Home")'" />
+        <input type="button" value="Invoke TCP Request" onclick="location.href='@Url.Action("InvokeTCP", "Home")'" />
+        <br/>
+        <br />
+        <input type="button" value="Get Job Openings" onclick="location.href='@Url.Action("JobOpenings", "Home")'" />
+    </div>
+    <h5>@ViewBag.Message</h5>
+</body>
+</html>

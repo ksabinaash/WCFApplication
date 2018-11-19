@@ -1,0 +1,9 @@
+C:\Assignments\WCF\CalculatorHost\bin\Debug\CalculatorHost.exe.config
+C:\Assignments\WCF\CalculatorHost\bin\Debug\CalculatorHost.exe
+C:\Assignments\WCF\CalculatorHost\bin\Debug\CalculatorHost.pdb
+C:\Assignments\WCF\CalculatorHost\bin\Debug\Assignment1-Section3.dll
+C:\Assignments\WCF\CalculatorHost\bin\Debug\Assignment1-Section3.pdb
+C:\Assignments\WCF\CalculatorHost\bin\Debug\Assignment1-Section3.dll.config
+C:\Assignments\WCF\CalculatorHost\obj\Debug\CalculatorHost.csprojResolveAssemblyReference.cache
+C:\Assignments\WCF\CalculatorHost\obj\Debug\CalculatorHost.exe
+C:\Assignments\WCF\CalculatorHost\obj\Debug\CalculatorHost.pdb
