@@ -14,7 +14,7 @@ namespace CalculatorHost
             using (ServiceHost host = new ServiceHost(typeof(Assignment1_Section3.Calculator)))
             {
                 host.Open();
-                Console.WriteLine("Calculator Service is open");
+                Console.WriteLine("Calculator service is open");
                 Console.ReadLine();
             }
         }
